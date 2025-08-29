@@ -1,3 +1,3 @@
 # basicrepo
-this first repo OOO
-Authoe-Shubham Tidke
+this first repo OOO <br>
+Author -Shubham Tidke
